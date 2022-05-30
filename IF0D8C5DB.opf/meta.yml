@@ -1,0 +1,30 @@
+id: IF0D8C5DB
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:54:38.997148'
+last_modified: '2022-05-30T18:54:38.997161'
+parser: null
+source_metadata:
+  title: Drikung Tertön Ösel Dorje
+  language: bo
+  description: 'Texts by and about Drikung Tertön Ösel Dorje (''bri gung gter ston
+    ''od gsal rdo rje):'
+  volume:
+    f87E7:
+      title: Concerning Nezhi Tertön Rigdzin Chökyi Döndrup
+      base_file: f87E7.txt
+      order: 1
+      parent: Letters
+    f79F8:
+      title: 'The Concentration of Blessings: Red Tārā Lineage Prayer'
+      base_file: f79F8.txt
+      order: 2
+      parent: Lineage Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
